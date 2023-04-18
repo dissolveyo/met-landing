@@ -12,6 +12,6 @@ Product landing page (Met) that consist of:
 
 -> Block with the online exhibitions, galleries, videos, articles.
 
--> Contact form.
+-> Contact form and contact phones to communicate with us.
 
 Implemented following [this design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?t=FNMxx1WmVkV9PQxu-6).
