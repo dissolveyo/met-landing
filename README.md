@@ -14,4 +14,4 @@ Product landing page (Met) that consist of:
 
 -> Contact form and phones to communicate with us.
 
-Implemented following [this design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?t=FNMxx1WmVkV9PQxu-6).
+**Implemented following [this design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?t=FNMxx1WmVkV9PQxu-6)**.
